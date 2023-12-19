@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4059fe24c656a8429a9f8671044acc5, type: 3}
+  m_Name: F-16 Communication Data
+  m_EditorClassIdentifier: 
+  ip: 127.0.0.1
+  port: 8001
+  x: 0
+  y: 0
+  z: -300
+  phi_deg: 0
+  theta_deg: 0
+  psi_deg: 0
+  rudder_deg: 0
+  flaperonRight_deg: 0
+  flaperonLeft_deg: 0
+  elevatorRight_deg: 0
+  elevatorLeft_deg: 0
+  thrust_per: 0
+  cgX_m: -8
+  cgY_m: 0
+  cgZ_m: 0
+  alpha_deg: 0
+  beta_deg: 0
+  flightPath_deg: 0
+  TAS_m_s: 0
+  Mach: 0
+  G: 0
+  Vz: 0
+  p_deg_s: 0
+  q_deg_s: 0
+  r_deg_s: 0
+  reset: 0
